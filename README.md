@@ -6,7 +6,7 @@ If you use https://github.com/notifications to manage your notificatons, it can 
 
 ## What
 
-This is a bookmarklet to help you automatically close items.
+This is a bookmarklet to help you automatically close items. Just open your notifications page, click this bookmarklet and automatically close items.
 
 ## How
 
