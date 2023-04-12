@@ -12,3 +12,5 @@ This is a bookmarklet to help you automatically close items.
 
 1. Install by creating a new bookmark in your browser and pasting the contents of cleanup.js into the URL field.
 2. Add items to the `actionIcons` and `ignoredWords` arrays to customize it for your needs.
+
+![Screenshot](screenshot.png)
